@@ -1,0 +1,90 @@
+header{
+  position: fixed;
+  top: 0;
+  border: 2px solid darkkhaki;
+  border-radius: 10%;
+  width: 100%;
+  background-color: lightskyblue;
+}
+.navbar .col{
+  border-radius: 10%;
+  border: 1px solid gray;
+  text-align: center;
+}
+
+body{
+  margin-top: 80px;
+  margin-left: 10px;
+  margin-right: 30px;
+  margin-bottom: 40px;
+}
+section{
+  margin-top: 100px;
+  border-bottom: 2px solid darkseagreen;
+}
+h2{
+  padding: 15px;
+}
+#siteName{
+  font-family: "Felix Titling";
+  color: blue;
+  text-align: center;
+  padding: 10px;
+  margin: 5px;
+  border: 2px solid sandybrown;
+  border-radius: 10%;
+}
+a:link{
+  text-decoration: none;
+}
+#myPicture{
+  width: 200px;
+  height: 200px;
+  border-radius: 10%;
+}
+table{
+  text-align: center;
+  border: lightskyblue;
+  border: 1px solid dodgerblue !important;
+}
+thead{
+  background-color: lightskyblue;
+  border-bottom: 2px solid cornflowerblue;
+}
+table img{
+  width: 160px;
+  height: 100px;
+}
+.recFriends{
+  height: 175px;
+  width: 200px;
+  border-radius: 50%;
+}
+.recToMiddle{
+  text-align: center;
+  margin-bottom: 20px;
+}
+.companyLogo{
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin: -50px;
+}
+footer{
+  position: fixed;
+  background-color: deepskyblue;
+  height: 40px;
+  bottom: 0px;
+  width: 100%;
+  border-top: 2px solid peru;
+  border-radius: 10%;
+}
+.footerLinks{
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+}
+#footerLogos{
+
+}
+
