@@ -83,10 +83,24 @@ footer{
   border-top: 2px solid peru;
   border-radius: 10%;
 }
+#copirightSign{
+  position: relative;
+  left: 100px;
+  top: 5px;
+}
+#footerLogosCol{
+  height: 80px;
+  width: 150px;
+  position: relative;
+  right: 0px;
+  top: 5px;
+
+}
 .footerLinks{
   height: 30px;
   width: 30px;
   border-radius: 50%;
+
 }
 
 
