@@ -1,4 +1,4 @@
-header{
+.navbar.row{
   position: fixed;
   top: 0;
   border: 2px solid darkkhaki;
@@ -11,28 +11,33 @@ header{
   border: 1px solid gray;
   text-align: center;
 }
-
+#siteName{
+  border: 2px solid yellowgreen;
+  border-radius: 5%;
+}
 body{
-  margin-top: 80px;
-  margin-left: 10px;
+  margin-left: 5px;
   margin-right: 30px;
   margin-bottom: 40px;
 }
 section{
-  margin-top: 100px;
   border-bottom: 2px solid darkseagreen;
+}
+section.row{
+  padding-top: 100px;
 }
 h2{
   padding: 15px;
 }
 #siteName{
-  font-family: "Felix Titling";
+  font-family: "Felix Titling", serif;
   color: blue;
   text-align: center;
   padding: 10px;
   margin: 5px;
-  border: 2px solid sandybrown;
-  border-radius: 10%;
+}
+#siteName:first-letter{
+  text-shadow: sandybrown;
 }
 a:link{
   text-decoration: none;
@@ -44,7 +49,6 @@ a:link{
 }
 table{
   text-align: center;
-  border: lightskyblue;
   border: 1px solid dodgerblue !important;
 }
 thead{
@@ -84,7 +88,5 @@ footer{
   width: 30px;
   border-radius: 50%;
 }
-#footerLogos{
 
-}
 
