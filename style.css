@@ -32,12 +32,8 @@ h2{
 #siteName{
   font-family: "Felix Titling", serif;
   color: blue;
-  text-align: center;
   padding: 10px;
   margin: 5px;
-}
-#siteName:first-letter{
-  text-shadow: sandybrown;
 }
 a:link{
   text-decoration: none;
@@ -83,9 +79,9 @@ footer{
   border-top: 2px solid peru;
   border-radius: 10%;
 }
-#copirightSign{
+#copyrightSign{
   position: relative;
-  left: 100px;
+  left: 20px;
   top: 5px;
 }
 #footerLogosCol{
@@ -94,13 +90,11 @@ footer{
   position: relative;
   right: 0px;
   top: 5px;
-
 }
 .footerLinks{
   height: 30px;
   width: 30px;
   border-radius: 50%;
-
 }
 
 
