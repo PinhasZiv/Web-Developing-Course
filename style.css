@@ -1,4 +1,4 @@
-.navbar.row{
+.navbar.row {
   position: fixed;
   top: 0;
   border: 2px solid darkkhaki;
@@ -6,71 +6,90 @@
   width: 100%;
   background-color: lightskyblue;
 }
-.navbar .col{
+
+.navbar .col {
   border-radius: 10%;
   border: 1px solid gray;
   text-align: center;
 }
-#siteName{
+
+#siteName {
   border: 2px solid yellowgreen;
   border-radius: 5%;
 }
-body{
+
+body {
   margin-left: 5px;
   margin-right: 30px;
   margin-bottom: 40px;
 }
-section{
+
+section {
   border-bottom: 2px solid darkseagreen;
 }
-section.row{
+
+section.row {
   padding-top: 100px;
 }
-h2{
+
+h2 {
   padding: 15px;
 }
-#siteName{
+
+#siteName {
   font-family: "Felix Titling", serif;
   color: blue;
   padding: 10px;
   margin: 5px;
 }
-a:link{
+
+a:link {
   text-decoration: none;
 }
-#myPicture{
+
+#myPicture {
   width: 200px;
   height: 200px;
   border-radius: 10%;
 }
-table{
+
+#Education .col-3{
+  border: 1px solid skyblue;
+}
+table {
   text-align: center;
   border: 1px solid dodgerblue !important;
 }
-thead{
+
+thead {
   background-color: lightskyblue;
   border-bottom: 2px solid cornflowerblue;
 }
-table img{
+
+table img {
   width: 160px;
   height: 100px;
 }
-.recFriends{
+
+.recFriends {
   height: 175px;
   width: 200px;
   border-radius: 50%;
 }
-.recToMiddle{
+
+.recToMiddle {
   text-align: center;
   margin-bottom: 20px;
 }
-.companyLogo{
+
+.companyLogo {
   width: 30px;
   height: 30px;
   border-radius: 50%;
   margin: -50px;
 }
-footer{
+
+footer {
   position: fixed;
   background-color: deepskyblue;
   height: 40px;
@@ -79,19 +98,22 @@ footer{
   border-top: 2px solid peru;
   border-radius: 10%;
 }
-#copyrightSign{
+
+#copyrightSign {
   position: relative;
   left: 20px;
   top: 5px;
 }
-#footerLogosCol{
+
+#footerLogosCol {
   height: 80px;
   width: 150px;
   position: relative;
   right: 0px;
   top: 5px;
 }
-.footerLinks{
+
+.footerLinks {
   height: 30px;
   width: 30px;
   border-radius: 50%;
