@@ -86,13 +86,36 @@ a:link {
   cursor: pointer;
 }
 
-.bar {
-  width: 0%;
+.progress{
+  height: 20px;
+}
+
+.progress-bar {
   height: 30px;
   background-color: royalblue;
-  /*text-align: center; !* To center it horizontally (if you want) *!*/
-  line-height: 30px; /* To center it vertically */
+  text-align: center;
+  line-height: 20px;
   color: white;
+}
+
+.bar-block{
+  padding: -10px;
+}
+
+#java{
+  width: 70%;
+}
+
+#cpp{
+  width: 45%;
+}
+
+#assembly{
+  width: 30%;
+}
+
+#html{
+  width: 40%;
 }
 
 #Education .col-3{
